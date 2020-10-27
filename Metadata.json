@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel \u00d6rneling",
+    "ContentSize": 1243,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-ad-user/master/CreateAzureADUser.ps1",
+    "DownloadCount": 2134,
+    "Id": "Create-Azure-AD-User-630be7c7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 124,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-11-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Use this Automation Runbook to create Azure AD Users in a really easy way. The runbook relies on the Msonline PowerShell modules which needs to be imported as Automation assets.Import the msonline modules: http://bit.ly/1SNsgA6Complete Setup guide: http://bit.ly/1PM3ksH",
+    "Title": "Create Azure AD User",
+    "UpdatedDate": "2015-11-17T00:00:00",
+    "Url": "https://github.com/azureautomation/create-azure-ad-user",
+    "UserTags": "Azure, Microsoft Azure, Automation"
+}
